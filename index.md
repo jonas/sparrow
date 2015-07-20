@@ -61,7 +61,7 @@ For code contributions, these are the suggested steps:
 
 Once you've tagged a version run the following command to publish:
 
-    $ sbt publish core/bintrayRemoteSign
+    $ sbt publish ghpages-push-site
 
 ## License
 
